@@ -1,6 +1,6 @@
 # Distill: Smart compressed files extractor for PHP
 
-[![Build Status](https://secure.travis-ci.org/raulfraile/distill.png)](http://travis-ci.org/raulfraile/distill)
+[![Build Status](https://status.continuousphp.com/git-hub/oswaldderiemaecker/distill?token=6d91982a-dbf9-46d1-ab3c-102175bec6b9)](https://continuousphp.com/git-hub/oswaldderiemaecker/distill)
 [![Latest Stable Version](https://poser.pugx.org/raulfraile/distill/v/stable.png)](https://packagist.org/packages/raulfraile/distill)
 [![Total Downloads](https://poser.pugx.org/raulfraile/distill/downloads.png)](https://packagist.org/packages/raulfraile/distill)
 [![Latest Unstable Version](https://poser.pugx.org/raulfraile/distill/v/unstable.png)](https://packagist.org/packages/raulfraile/distill)
